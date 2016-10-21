@@ -1,0 +1,77 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\test\scala -> C:\Users\Ramon\Documents\workspace\GameConsole\bin
+compile options:
+9 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_40\lib\resources.jar;C:\Program Files\Java\jre1.8.0_40\lib\rt.jar;C:\Program Files\Java\jre1.8.0_40\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_40\lib\jce.jar;C:\Program Files\Java\jre1.8.0_40\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_40\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_40\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\Ramon\.eclipse\org.eclipse.platform_4.5.0_248562372_win32_win32_x86_64\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -deprecation
+7 -> -encoding
+8 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+0 items
+binary dependencies:
+0 items
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+0 items
+used names:
+0 items
+product stamps:
+0 items
+source stamps:
+0 items
+binary stamps:
+0 items
+class names:
+0 items
+internal apis:
+0 items
+external apis:
+0 items
+source infos:
+0 items
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUYrhth1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVxiaW50ADlDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZOK7N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVxiaW50ADlDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZPCjx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVxiaW50ADlDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZYhj11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVxiaW50ADlDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZay+d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVxiaW50ADlDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZa+/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVxiaW50ADlDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+a3VjR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcYmludAA9QzpcVXNlcnNcUmFtb25cRG9jdW1lbnRzXHdvcmtzcGFjZVxHYW1lQ29uc29sZVxzcmNcdGVzdFxzY2FsYQ==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+a3iOp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcYmludAA9QzpcVXNlcnNcUmFtb25cRG9jdW1lbnRzXHdvcmtzcGFjZVxHYW1lQ29uc29sZVxzcmNcdGVzdFxzY2FsYQ==

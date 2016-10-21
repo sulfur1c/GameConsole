@@ -1,0 +1,327 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\Game.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameConsole.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameConsoleLibrary.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$1$$anonfun$apply$1.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$1.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$2.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$3$$anonfun$apply$2.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$3.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$reportGames$1.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$reportGames$2$$anonfun$4.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$reportGames$2.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\BluRayMediaFormat.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\CartridgeMediaFormat.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\DvdMediaFormat.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\MediaFormat.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\USBMediaFormat.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\FHD.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\HD.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\QHD.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\UHD4K.class
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\VideoResolution.class
+binary dependencies:
+11 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> C:\Program Files\Java\jre1.8.0_40\lib\rt.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> C:\Program Files\Java\jre1.8.0_40\lib\rt.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> C:\Program Files\Java\jre1.8.0_40\lib\rt.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Program Files\Java\jre1.8.0_40\lib\rt.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> C:\Program Files\Java\jre1.8.0_40\lib\rt.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Program Files\Java\jre1.8.0_40\lib\rt.jar
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+9 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> gamingsite.Game
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> gamingsite.GameConsole
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> gamingsite.GameConsoleLibrary
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$1
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$1$$anonfun$apply$1
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$2
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$3
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$3$$anonfun$apply$2
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$reportGames$1
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$reportGames$2
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite.GameShop$$anonfun$reportGames$2$$anonfun$4
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> gamingsite.BluRayMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> gamingsite.CartridgeMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> gamingsite.DvdMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> gamingsite.MediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> gamingsite.USBMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> gamingsite.FHD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> gamingsite.HD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> gamingsite.QHD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> gamingsite.UHD4K
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> gamingsite.VideoResolution
+used names:
+143 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> <init>
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> AnyRef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> Game
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> GameConsole
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> List
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> Predef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> String
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> StringContext
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> console
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> consoles
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> contains
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> gamingsite
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> maker
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> name
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> package
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> s
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> <init>
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> AnyRef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> Date
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> GameConsole
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> List
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> MediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> Option
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> Predef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> String
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> StringContext
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> VideoResolution
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> debut
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> gamingsite
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> getClass
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> getName
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> java
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> make
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> maxVideoResolution
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> mediaFormats
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> model
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> package
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> s
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> util
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> wifiType
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> <init>
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> AnyRef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> BluRayMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> CartridgeMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> Date
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> DateFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> DvdMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> FHD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> GameConsole
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> GameConsoleLibrary
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> HD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> List
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> Predef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> String
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> UHD4K
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> USBMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> apply
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> aquaTopia
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> chanduOne
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> gamingsite
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> getInstance
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> immutable
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> java
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> leoChallenge
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> oonaSeven
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> parse
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> s
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> strToDate
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> text
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> util
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> ->
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> <init>
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> AnyRef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> Game
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> GameConsole
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> GameConsoleLibrary
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> GameShop
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> List
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> Map
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> Ordering
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> Predef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> String
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> StringContext
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> Tuple2
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> Unit
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> _1
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> _2
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> apply
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> aquaTopia
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> c
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> canBuildFrom
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> chanduOne
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> consoleInfo
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> consoleToGames
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> consoleToGames1
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> consoleToGames2
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> consoleToGames3
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> consoles
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> flatMap
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> foreach
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> g
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> game
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> games
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> gamingsite
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> groupBy
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> immutable
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> leoChallenge
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> make
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> maker
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> map
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> mapValues
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> math
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> mkString
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> model
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> name
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> oonaSeven
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> package
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> println
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> s
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> sortBy
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> <init>
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> AnyRef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> BluRayMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> CartridgeMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> DvdMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> MediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> USBMediaFormat
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> gamingsite
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> scala
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> <init>
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> AnyRef
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> FHD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> HD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> Int
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> QHD
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> UHD4K
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> VideoResolution
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> gamingsite
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> scala
+product stamps:
+22 items
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\BluRayMediaFormat.class -> lastModified(1477046046203)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\CartridgeMediaFormat.class -> lastModified(1477046046209)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\DvdMediaFormat.class -> lastModified(1477046046216)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\FHD.class -> lastModified(1477046046260)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\Game.class -> lastModified(1477046046279)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameConsole.class -> lastModified(1477046046287)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameConsoleLibrary.class -> lastModified(1477046046294)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$1$$anonfun$apply$1.class -> lastModified(1477046046356)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$1.class -> lastModified(1477046046312)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$2.class -> lastModified(1477046046362)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$3$$anonfun$apply$2.class -> lastModified(1477046046373)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$3.class -> lastModified(1477046046368)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$reportGames$1.class -> lastModified(1477046046379)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$reportGames$2$$anonfun$4.class -> lastModified(1477046046393)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop$$anonfun$reportGames$2.class -> lastModified(1477046046387)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\GameShop.class -> lastModified(1477046046304)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\HD.class -> lastModified(1477046046409)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\MediaFormat.class -> lastModified(1477046046438)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\QHD.class -> lastModified(1477046046479)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\UHD4K.class -> lastModified(1477046046484)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\USBMediaFormat.class -> lastModified(1477046046488)
+C:\Users\Ramon\Documents\workspace\GameConsole\target\scala-2.11\classes\gamingsite\VideoResolution.class -> lastModified(1477046046492)
+source stamps:
+6 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> hash(2dd3882172ce66d4e86bf14b8ba92b427ab728f4)
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> hash(341a0568f3bc678c95c47e8b8260ec034fef9a45)
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> hash(334b771896d53a2d58d17e2d18574161eaf1b2fb)
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> hash(2b8f10c1eda01f95e1f7843c9dfbc700950e118d)
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> hash(a39f1ad9d7575e89e43cae72d0bb8bf141dfa03c)
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> hash(203e6459c0242e91f70c123c5b6781d613c6e9dd)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_40\lib\rt.jar -> lastModified(1425719245092)
+C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_40\lib\rt.jar -> java.lang.Object
+C:\Users\Ramon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Int
+internal apis:
+6 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDFPsypAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPaobs90AAZub3RpZnlzcQB+AAzGMtsTdAAEbmFtZXNxAH4ADOagJ4R0AAR3YWl0c3EAfgAMme5EYHQADSRhc0luc3RhbmNlT2ZzcQB+AAwwG72udAAGZXF1YWxzc3EAfgAMpF4ZenQADGFzSW5zdGFuY2VPZnNxAH4ADDYzQm90AAxzeW5jaHJvbml6ZWRzcQB+AAwoyKYwdAANJGlzSW5zdGFuY2VPZnNxAH4ADGuysu90AAtpc1N1cHBvcnRlZHNxAH4ADGmZlZh0AAlub3RpZnlBbGxzcQB+AAz44AJwdAAMaXNJbnN0YW5jZU9mc3EAfgAMMNy/y3QABjxpbml0PnNxAH4ADFj5bbx0AARHYW1lc3EAfgAMQrJllXQAAj09c3EAfgAMpgRXh3QABWNsb25lc3EAfgAMALLGmHQABW1ha2Vyc3EAfgAMWByJ23QACHRvU3RyaW5nc3EAfgAMaOeRSHQAAiE9c3EAfgAMB8pfyXQACGdldENsYXNzc3EAfgAMGlg15nQACGNvbnNvbGVzc3EAfgAMXjb64XQAAm5lc3EAfgAMSWZ+QHQAAmVxc3EAfgAMzol3cnQAAiMjc3EAfgAM+ldLbHQACGZpbmFsaXplc3EAfgAMo04pSXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2dhbWluZ3NpdGUuR2FtZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYQBwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AanNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCGdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHc3EAfgB6dAADQW55c3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQABXNjYWxhcQB+AI11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApnYW1pbmdzaXRlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFX5s3GynVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEhDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXEdhbWVDb25zb2xlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQt04ghcs5m1Ohr8UuLqStCerco9A==
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+QzGcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJB51/J0AAZub3RpZnlzcQB+AAzN0PObdAASbWF4VmlkZW9SZXNvbHV0aW9uc3EAfgAM9xvyqHQABHdhaXRzcQB+AAwCpK+VdAANJGFzSW5zdGFuY2VPZnNxAH4ADOOE2M50AAVtb2RlbHNxAH4ADOSqP0x0AAZlcXVhbHNzcQB+AAwjal3JdAALR2FtZUNvbnNvbGVzcQB+AAzdZBejdAAMYXNJbnN0YW5jZU9mc3EAfgAMrjc9AHQADHN5bmNocm9uaXplZHNxAH4ADNEcRxh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMimcLonQACW5vdGlmeUFsbHNxAH4ADDve7rR0AAxpc0luc3RhbmNlT2ZzcQB+AAxYzwUgdAAGPGluaXQ+c3EAfgAMGefIJXQABWRlYnV0c3EAfgAM58m85XQAAj09c3EAfgAMC2JsMHQABWNsb25lc3EAfgAMiVq5AHQADG1lZGlhRm9ybWF0c3NxAH4ADFm+4x90AAh3aWZpVHlwZXNxAH4ADFRMYst0AARtYWtlc3EAfgAMYglHHnQACHRvU3RyaW5nc3EAfgAMbz9VCnQAAiE9c3EAfgAMuiP5u3QACGdldENsYXNzc3EAfgAMIqUmL3QAAm5lc3EAfgAMRqafMnQAAmVxc3EAfgAMNQVP1HQAAiMjc3EAfgAMFoUID3QACGZpbmFsaXplc3EAfgAMPz7Kg3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFmdhbWluZ3NpdGUuR2FtZUNvbnNvbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGUAcHNxAH4AanNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG5zcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AinQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AfnQAA0FueXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAVzY2FsYXEAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKZ2FtaW5nc2l0ZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+bNxsp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcVXNlcnNcUmFtb25cRG9jdW1lbnRzXHdvcmtzcGFjZVxHYW1lQ29uc29sZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUNBoFaPO8Z4yVxH6LgmDsA0/vmkU=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDEffqPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA7Sb590AAZub3RpZnlzcQB+AAxXwOlqdAAEd2FpdHNxAH4ADL71eaZ0ABJHYW1lQ29uc29sZUxpYnJhcnlzcQB+AAwB6mlrdAANJGFzSW5zdGFuY2VPZnNxAH4ADOCPQGF0AAlzdHJUb0RhdGVzcQB+AAy4AWfUdAAGZXF1YWxzc3EAfgAMPsAS/HQADGFzSW5zdGFuY2VPZnNxAH4ADC4pMvp0AAxzeW5jaHJvbml6ZWRzcQB+AAy5PMZedAANJGlzSW5zdGFuY2VPZnNxAH4ADK9B7h10AAljaGFuZHVPbmVzcQB+AAxuEBZtdAAJbm90aWZ5QWxsc3EAfgAMVG8lc3QADGlzSW5zdGFuY2VPZnNxAH4ADJJn9GV0AAY8aW5pdD5zcQB+AAwmSoDhdAAJYXF1YVRvcGlhc3EAfgAM9peMIHQAAj09c3EAfgAMTzUGVHQABWNsb25lc3EAfgAMJSMw/3QADGxlb0NoYWxsZW5nZXNxAH4ADNgqxPJ0AAh0b1N0cmluZ3NxAH4ADGBaS3Z0AAIhPXNxAH4ADDxyoIN0AAhnZXRDbGFzc3NxAH4ADHtU7lJ0AAlvb25hU2V2ZW5zcQB+AAzQuU8mdAACbmVzcQB+AAwt4a2bdAACZXFzcQB+AAyaWZ1QdAACIyNzcQB+AAxBJpuhdAAIZmluYWxpemVzcQB+AAzB5IUmdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAdZ2FtaW5nc2l0ZS5HYW1lQ29uc29sZUxpYnJhcnl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGMAcHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGxzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AiHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXNxAH4AfHQAA0FueXNxAH4AgHNxAH4Ag3VxAH4AhgAAAAJzcQB+AIh0AAVzY2FsYXEAfgCPdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKZ2FtaW5nc2l0ZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+bNxsp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcVXNlcnNcUmFtb25cRG9jdW1lbnRzXHdvcmtzcGFjZVxHYW1lQ29uc29sZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUM0t3GJbVOi1Y0X4tGFdBYerxsvs=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDtjmijAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cL5u3790AAZub3RpZnlzcQB+AAztQqRldAAIR2FtZVNob3BzcQB+AAxl7QZJdAAEd2FpdHNxAH4ADC6hfoF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMFAC+NHQABmVxdWFsc3NxAH4ADFwrk310AA5jb25zb2xlVG9HYW1lc3NxAH4ADGIrpIh0AAtyZXBvcnRHYW1lc3NxAH4ADOyx3fZ0AAxhc0luc3RhbmNlT2ZzcQB+AAz9ESzFdAAMc3luY2hyb25pemVkc3EAfgAMrp8SaXQADSRpc0luc3RhbmNlT2ZzcQB+AAztIpfFdAAJbm90aWZ5QWxsc3EAfgAMV2nn93QADGlzSW5zdGFuY2VPZnNxAH4ADPSVnEl0AAY8aW5pdD5zcQB+AAwEd0QodAACPT1zcQB+AAyHmuHHdAAFY2xvbmVzcQB+AAyqiCPzdAAIdG9TdHJpbmdzcQB+AAwCl0c2dAACIT1zcQB+AAzkcISGdAAIZ2V0Q2xhc3NzcQB+AAxE+iwYdAAIY29uc29sZXNzcQB+AAxdPziCdAACbmVzcQB+AAy7jh1adAAFZ2FtZXNzcQB+AAxnbD62dAACZXFzcQB+AAxbfRlodAACIyNzcQB+AAz3DVPSdAAIZmluYWxpemVzcQB+AAxwShYZdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATZ2FtaW5nc2l0ZS5HYW1lU2hvcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYQBwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AanNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCGdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHc3EAfgB6dAADQW55c3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQABXNjYWxhcQB+AI11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApnYW1pbmdzaXRlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFX5s3GynVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEhDOlxVc2Vyc1xSYW1vblxEb2N1bWVudHNcd29ya3NwYWNlXEdhbWVDb25zb2xlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQrjxDB7aAfleH3hDyd+8cAlQ4RjQ==
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD0VNdMAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cD7oTLt0AAZub3RpZnlzcQB+AAzFyP0OdAAEd2FpdHNxAH4ADA1BPwV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMwtt0vHQABmVxdWFsc3NxAH4ADJk+Sh90AAtNZWRpYUZvcm1hdHNxAH4ADMQ0exZ0AAxhc0luc3RhbmNlT2ZzcQB+AAwIGLd+dAAMc3luY2hyb25pemVkc3EAfgAMrrNanXQADSRpc0luc3RhbmNlT2ZzcQB+AAzZj13MdAAORHZkTWVkaWFGb3JtYXRzcQB+AAwdxajcdAARQmx1UmF5TWVkaWFGb3JtYXRzcQB+AAxCB1ZmdAAJbm90aWZ5QWxsc3EAfgAMbih95nQADGlzSW5zdGFuY2VPZnNxAH4ADHNnBMJ0AAY8aW5pdD5zcQB+AAxXPOfYdAACPT1zcQB+AAw4Fpv/dAAOVVNCTWVkaWFGb3JtYXRzcQB+AAxIZwoEdAAFY2xvbmVzcQB+AAxdNjL4dAAUQ2FydHJpZGdlTWVkaWFGb3JtYXRzcQB+AAxjzRIddAAIdG9TdHJpbmdzcQB+AAykmqPydAACIT1zcQB+AAxdD78IdAAIZ2V0Q2xhc3NzcQB+AAyWseWBdAACbmVzcQB+AAwJXLt2dAACZXFzcQB+AAzSJIbRdAACIyNzcQB+AAyG9JJMdAAIZmluYWxpemVzcQB+AAzZRXl6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAWZ2FtaW5nc2l0ZS5NZWRpYUZvcm1hdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYQBwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AanNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCGdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHc3EAfgB6dAADQW55c3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQABXNjYWxhcQB+AI1zcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAZZ2FtaW5nc2l0ZS5EdmRNZWRpYUZvcm1hdHVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAHBzcQB+AGZzcQB+AG5zcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4AeAAAAANzcQB+AHp0AAtNZWRpYUZvcm1hdHNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AApnYW1pbmdzaXRlcQB+AI1zcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4AiXNxAH4AhnEAfgCLcQB+AI1zcQB+AHpxAH4Aj3NxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AlHEAfgCNc3EAfgBGcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHQAHGdhbWluZ3NpdGUuQmx1UmF5TWVkaWFGb3JtYXR1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAADc3EAfgB6dAALTWVkaWFGb3JtYXRzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAKZ2FtaW5nc2l0ZXEAfgCNc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ABlnYW1pbmdzaXRlLlVTQk1lZGlhRm9ybWF0dXEAfgBZAAAAAHEAfgBddXEAfgBfAAAAAHNxAH4AYQBwc3EAfgBmcQB+AGtzcQB+AGEAcHNxAH4AZnNxAH4AbnNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgB4AAAAA3NxAH4AenQAC01lZGlhRm9ybWF0c3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQACmdhbWluZ3NpdGVxAH4AjXNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1zcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAfZ2FtaW5nc2l0ZS5DYXJ0cmlkZ2VNZWRpYUZvcm1hdHVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAHBzcQB+AGZzcQB+AG5zcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4AeAAAAANzcQB+AHp0AAtNZWRpYUZvcm1hdHNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AApnYW1pbmdzaXRlcQB+AI1zcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4AiXNxAH4AhnEAfgCLcQB+AI1zcQB+AHpxAH4Aj3NxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AlHEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKZ2FtaW5nc2l0ZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+bNxsp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcVXNlcnNcUmFtb25cRG9jdW1lbnRzXHdvcmtzcGFjZVxHYW1lQ29uc29sZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUo58a2ddXXonkPK5y0LuL8UHfoDw=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA8YLniAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOUsZMt0AAZub3RpZnlzcQB+AAyOq7F0dAAEd2FpdHNxAH4ADKCuM7V0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhJoD3XQABmVxdWFsc3NxAH4ADFW8jGh0AANGSERzcQB+AAxbLXZ1dAAMYXNJbnN0YW5jZU9mc3EAfgAMACRwHHQADHN5bmNocm9uaXplZHNxAH4ADAPGkPl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMfb0rOHQAAkhEc3EAfgAMOJuE3HQACW5vdGlmeUFsbHNxAH4ADHIbKeB0AAxpc0luc3RhbmNlT2ZzcQB+AAz+dfpadAADUUhEc3EAfgAMPSi7VXQABVVIRDRLc3EAfgAMhdy91HQABjxpbml0PnNxAH4ADDzj65R0AAI9PXNxAH4ADESUIdl0AAVjbG9uZXNxAH4ADKxmI+90AAh0b1N0cmluZ3NxAH4ADPlIc1t0AAIhPXNxAH4ADMlVUKx0AAhnZXRDbGFzc3NxAH4ADFd1xsV0AAJuZXNxAH4ADFg9ugV0AA9WaWRlb1Jlc29sdXRpb25zcQB+AAwJf6smdAACZXFzcQB+AAw0POnmdAACIyNzcQB+AAw5p7p2dAAIZmluYWxpemVzcQB+AAxBdm1JdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAaZ2FtaW5nc2l0ZS5WaWRlb1Jlc29sdXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGEAcHNxAH4AZnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGpzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3NxAH4AenQAA0FueXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AAVzY2FsYXEAfgCNc3EAfgBGcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHQADWdhbWluZ3NpdGUuSER1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAADc3EAfgB6dAAPVmlkZW9SZXNvbHV0aW9uc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQACmdhbWluZ3NpdGVxAH4AjXNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1zcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAOZ2FtaW5nc2l0ZS5GSER1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAADc3EAfgB6dAAPVmlkZW9SZXNvbHV0aW9uc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQACmdhbWluZ3NpdGVxAH4AjXNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1zcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAOZ2FtaW5nc2l0ZS5RSER1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAADc3EAfgB6dAAPVmlkZW9SZXNvbHV0aW9uc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQACmdhbWluZ3NpdGVxAH4AjXNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1zcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAQZ2FtaW5nc2l0ZS5VSEQ0S3VxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAHBzcQB+AGZzcQB+AG5zcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4AeAAAAANzcQB+AHp0AA9WaWRlb1Jlc29sdXRpb25zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAKZ2FtaW5nc2l0ZXEAfgCNc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmdhbWluZ3NpdGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVfmzcbKdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCA+ZFnAJC6R9wwSPFtngdYTxund
+external apis:
+0 items
+source infos:
+6 items
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\Game.scala -> 
+AAAAAAAAAAA=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsole.scala -> 
+AAAAAgAAAQAAAAQAHWltcG9ydCBnYW1pbmdzaXRlLk1lZGlhRm9ybWF0AQAAAD0BAAAAEgEAEiAgICAgICAgICAgICAgICAgIAEAWkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcc3JjXG1haW5cc2NhbGFcZ2FtaW5nc2l0ZVxHYW1lQ29uc29sZS5zY2FsYQEAWkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcc3JjXG1haW5cc2NhbGFcZ2FtaW5nc2l0ZVxHYW1lQ29uc29sZS5zY2FsYQBlaW1wb3J0ZWQgYE1lZGlhRm9ybWF0JyBpcyBwZXJtYW5lbnRseSBoaWRkZW4gYnkgZGVmaW5pdGlvbiBvZiBjbGFzcyBNZWRpYUZvcm1hdCBpbiBwYWNrYWdlIGdhbWluZ3NpdGUBAAABAAAABQAhaW1wb3J0IGdhbWluZ3NpdGUuVmlkZW9SZXNvbHV0aW9uAQAAAFsBAAAAEgEAEiAgICAgICAgICAgICAgICAgIAEAWkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcc3JjXG1haW5cc2NhbGFcZ2FtaW5nc2l0ZVxHYW1lQ29uc29sZS5zY2FsYQEAWkM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcc3JjXG1haW5cc2NhbGFcZ2FtaW5nc2l0ZVxHYW1lQ29uc29sZS5zY2FsYQBtaW1wb3J0ZWQgYFZpZGVvUmVzb2x1dGlvbicgaXMgcGVybWFuZW50bHkgaGlkZGVuIGJ5IGRlZmluaXRpb24gb2YgY2xhc3MgVmlkZW9SZXNvbHV0aW9uIGluIHBhY2thZ2UgZ2FtaW5nc2l0ZQEAAAAA
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameConsoleLibrary.scala -> 
+AAAAAAAAAAA=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\GameShop.scala -> 
+AAAAAAAAAAA=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\MediaFormat.scala -> 
+AAAAAAAAAAA=
+C:\Users\Ramon\Documents\workspace\GameConsole\src\main\scala\gamingsite\VideoResolution.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZFzfp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUZciCt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcZXhhbXBsZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+bNxsp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XFVzZXJzXFJhbW9uXERvY3VtZW50c1x3b3Jrc3BhY2VcR2FtZUNvbnNvbGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
